@@ -9,6 +9,4 @@ https://www.apertium.org/index.eng.html#?dir=eng-epo&q=
 
 https://cl.lingfil.uu.se/~sara/blast/
 
-https://aclanthology.org/P02-1040.pdf
-
-BLEU: a Method for Automatic Evaluation of Machine Translation
+[BLEU: a Method for Automatic Evaluation of Machine Translation](https://aclanthology.org/P02-1040.pdf)
