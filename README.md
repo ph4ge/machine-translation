@@ -1,7 +1,7 @@
 # machine-translation
 Machine Translation Resources
 
-ref. Coursera, Karlsruhe Institute of Technology - Machine Translation
+ref. mainly Coursera, Karlsruhe Institute of Technology - Machine Translation
 
 http://www2.statmt.org/moses/?n=moses.baseline
 
