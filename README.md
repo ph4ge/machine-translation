@@ -3,6 +3,8 @@ Machine Translation Resources
 
 http://www2.statmt.org/moses/?n=moses.baseline
 
+https://nlp.stanford.edu/phrasal/
+
 https://www.apertium.org/index.eng.html#?dir=eng-epo&q=
 
 
